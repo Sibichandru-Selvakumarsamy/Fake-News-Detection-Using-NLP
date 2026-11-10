@@ -75,3 +75,14 @@ AI & Data Science Student
 
 ## Conclusion
 This project demonstrates how Natural Language Processing and Machine Learning can be used to identify potentially fake news articles.
+
+## Screenshots
+
+### Fake News Detection
+![Fake News Output](screenshots/fake_news.png)
+
+### Real News Detection
+![Real News Output](screenshots/real_news.png)
+
+### Web Application
+![Application Interface](screenshots/homepage.png)
